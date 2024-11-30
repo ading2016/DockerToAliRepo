@@ -19,4 +19,7 @@
 #semitechnologies/weaviate:1.19.0
 #langgenius/qdrant:v1.7.3
 #pgvector/pgvector:pg16
-openjdk:8
+#openjdk:8
+mysql:5.7
+elasticsearch:7.10.2
+redis:6.2
