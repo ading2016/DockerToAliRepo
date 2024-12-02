@@ -23,4 +23,5 @@
 #mysql:5.7
 #elasticsearch:7.10.2
 #redis:6.2
-node:current
+#node:current
+node:18.7.0
