@@ -24,4 +24,5 @@
 #elasticsearch:7.10.2
 #redis:6.2
 #node:current
-node:18.7.0
+#node:18.7.0
+chaosbladeio/chaosblade-demo
