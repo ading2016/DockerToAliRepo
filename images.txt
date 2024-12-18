@@ -25,4 +25,5 @@
 #redis:6.2
 #node:current
 #node:18.7.0
-chaosbladeio/chaosblade-demo
+#chaosbladeio/chaosblade-demo
+ollama/ollama
