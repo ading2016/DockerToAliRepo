@@ -27,4 +27,5 @@
 #node:18.7.0
 #chaosbladeio/chaosblade-demo
 #ollama/ollama
-ghcr.io/open-webui/open-webui:main
+#ghcr.io/open-webui/open-webui:main
+mysql:5.7
