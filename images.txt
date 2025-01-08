@@ -5,3 +5,4 @@ redis:7.2.4
 redis:7.2.4
 redis:7.2.4
 redis:7.2.4
+nginx:1.22
