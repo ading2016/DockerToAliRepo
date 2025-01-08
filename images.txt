@@ -29,3 +29,5 @@
 #ollama/ollama
 #ghcr.io/open-webui/open-webui:main
 mysql:5.7
+
+redis:7.2.4
