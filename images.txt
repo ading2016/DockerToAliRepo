@@ -15,3 +15,4 @@ nginx:1.22
 nginx:1.22
 nginx:1.22
 nginx:1.22
+nginx:1.22
