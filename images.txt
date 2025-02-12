@@ -16,3 +16,4 @@ nginx:1.22
 nginx:1.22
 nginx:1.22
 nginx:1.22
+cr.weaviate.io/semitechnologies/weaviate:1.28.4
