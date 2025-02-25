@@ -19,3 +19,4 @@ nginx:1.22
 cr.weaviate.io/semitechnologies/weaviate:1.28.4
 cr.weaviate.io/semitechnologies/weaviate:1.28.4
 cr.weaviate.io/semitechnologies/weaviate:1.28.4
+redis:4.0.14
