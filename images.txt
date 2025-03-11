@@ -22,3 +22,4 @@ cr.weaviate.io/semitechnologies/weaviate:1.28.4
 redis:4.0.14
 vllm/vllm-openai:latest
 vllm/vllm-openai:latest
+lmsysorg/sglang:latest
