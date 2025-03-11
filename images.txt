@@ -25,3 +25,4 @@ vllm/vllm-openai:latest
 lmsysorg/sglang:latest
 lmsysorg/sglang:latest
 lmsysorg/sglang:latest
+lmsysorg/sglang:latest
