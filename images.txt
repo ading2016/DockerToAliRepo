@@ -28,3 +28,4 @@ lmsysorg/sglang:latest
 lmsysorg/sglang:latest
 lmsysorg/sglang:latest
 ollama/ollama:latest
+ollama/ollama:latest
