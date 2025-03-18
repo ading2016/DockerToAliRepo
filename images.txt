@@ -31,3 +31,4 @@ ollama/ollama:latest
 ollama/ollama:latest
 ollama/ollama:latest
 ollama/ollama:0.6.2
+ollama/ollama:0.6.2
