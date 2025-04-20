@@ -33,3 +33,4 @@ ollama/ollama:latest
 ollama/ollama:0.6.2
 ollama/ollama:0.6.2
 golang:1.24.1-bullseye
+arm64v8/nginx
